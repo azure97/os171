@@ -1,0 +1,6 @@
+#Muhammad Ayaz Dzulfikar
+
+For this week, students have to create some directories in their repository
+(creating dummy files so directories can be tracked), tried terminal text
+editor such as vi and nano, and tried some bash command
+
