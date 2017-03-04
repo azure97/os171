@@ -1,0 +1,9 @@
+w03-170228-10-LR-About: Booting stuff From: Lecturer
+w03-170228-10-LR-About: Booting stuff From: Lecturer
+w03-170228-11-LR-About: Booting stuff From: Lecturer
+w03-170228-16-PS-About: Doing Lab3
+w03-170228-20-LR-About: Reading booting stuff From: Internet
+w03-170228-20-PS-About: Doing Lab3
+w03-170302-10-LR-About: Scripting, pointer, little/big endian From: Lecturer
+w03-170302-10-LR-About: Scripting, pointer, little/big endian From: Lecturer
+w03-170302-11-LR-About: Scripting, pointer, little/big endian From: Lecturer
